@@ -7,11 +7,11 @@ Password: 3waawesome
 
 ScreenShots:
 <center>
-  <img src="http://3wa.tw/mycode/mycode_screenshot_0.png">
+  <img src="http://3wa.tw/mycode/0.png">
   <br>
-  <img src="http://3wa.tw/mycode/mycode_screenshot_1.png">
+  <img src="http://3wa.tw/mycode/1.png">
   <br>
-  <img src="http://3wa.tw/mycode/mycode_screenshot_2.png">
+  <img src="http://3wa.tw/mycode/2.png">
   <br>
 </center>
 
